@@ -39,7 +39,7 @@ Check out [this guide](https://github.com/nitishdayal/cra_closer_look) for an ov
 The tradeoff is that **these tools are preconfigured to work in a specific way**. If your project needs more customization, you can ["eject"](https://facebook.github.io/create-react-app/docs/available-scripts#npm-run-eject) and customize it, but then you will need to maintain this configuration.
 
 
-# Crello 
+# What is this app?
 
 Drag and Drop People/TaskManager. This project was created to sharpen my ability with the library redux. Crello is a clone of Trello. This app is a task management app that gives you a visual overview of what is being worked on and who is working on it. It used the Kanban system, which was developed in Toyota as a system to keep production levels high and maintain flexibility. ... Crello is a system of boards, lists and cards.
 
